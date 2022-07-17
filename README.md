@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @JayBird1988.
+
 - 👀 I’m interested in ...web development.
+
 - 🌱 I’m currently learning ...coding.
+
 - 💞️ I’m looking to collaborate on ...anything.
+
 - 📫 How to reach me ...send me a message.
 
 <!---
