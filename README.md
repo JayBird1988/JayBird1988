@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayBird1988.
 
-- 👀 I’m interested in ...web development.
+- 👀 I’m interested in ...web development and design.
 
 - 🌱 I’m currently learning ...coding.
 
