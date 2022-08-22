@@ -1,0 +1,44 @@
+<html>
+<head>
+  <title>Basic Web Page</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<header>
+  <h1>Header</h1>
+  <p>Breakfast</p>
+  <p style='color: yellow;'>Breakfast is the <em>MOST</em> important meal of the day</p>
+  </header>
+<body>
+  <h1>Food</h1>
+  <ol>
+  <li>Bacon</li><br>
+<li>Waffles</li><br>
+<li>Pancakes</li><br>
+<li>Eggs</li><br>
+<li>Cereal</li><br>
+</ol>
+<h1><p>Video</p></h1>
+ <figcaption>The video shows a traditional American breakfast.</figcaption>
+ <br>
+  <script src="script.js"></script>
+  <video src="test-video.mp4" controls>
+  Video not supported
+</video>
+<br>
+<h1>What is your <strong>favorite</strong> breakfast food?</h1>
+<input type="checkbox" name="breakfast" value="bacon">Bacon 🥓<br>
+<input type="checkbox" name="breakfast" value="eggs">Eggs 🍳<br>
+<input type="checkbox" name="breakfast" value="pancakes">Pancakes 🥞<br>
+<p>Now what's for lunch?'</p>
+</body>
+<footer>
+  <h1>Footer</h1>
+  <p>
+    <a href="https://content.codecademy.com/courses/freelance-1/unit-2/explorer.jpeg" target="image">Image Not Available</a>
+    </p>
+    <p>What is your favorite breakfast food?</p>
+  </footer>
+  <figure>
+  </figure>
+</html>
